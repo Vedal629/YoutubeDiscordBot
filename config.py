@@ -1,0 +1,2 @@
+DISCORD_TOKEN = "디스코드 토큰"
+COMMAND_PREFIX = "!"

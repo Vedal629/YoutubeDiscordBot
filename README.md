@@ -1,4 +1,6 @@
 https://discord.com/developers/applications  애서 디스코드 봇 생성
+
+
 생성 후 토큰 config.py에 붙여넣기
 
 
